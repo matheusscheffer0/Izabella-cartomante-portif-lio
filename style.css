@@ -10,9 +10,9 @@ body{
   font-size: 40px;
 }
 #foto{
-  height: 100px;
-  width: 100px;
-  border-radius: 50px;
+  height: 400px;
+  width: 200px;
+  border-radius: 300px;
   border: solid;
 }
 .magia{
