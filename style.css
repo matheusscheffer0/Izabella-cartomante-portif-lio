@@ -7,10 +7,12 @@ body{
   padding: 0;
 }
 .apresentacao{
+  width: 100%;
   display: block;
   text-align: center;
   justify-content: center;
   position: absolute;
+  left: 50%;
   top: 30px;
   color: white;
   font-family: didot-serif;
