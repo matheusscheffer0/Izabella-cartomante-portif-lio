@@ -1,12 +1,15 @@
 body{
-  center: 50;
+  display: flex;
+  justify-content: center;
   background-color: black;
   text-align: center;
   margin: 0;
   padding: 0;
 }
 .apresentacao{
+  display: flex;
   text-align: center;
+  justify-content: center;
   position: absolute;
   top: 30px;
   color: white;
