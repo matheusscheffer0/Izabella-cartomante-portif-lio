@@ -7,18 +7,18 @@ body{
   padding: 0;
 }
 .apresentacao{
-  width: 100%;
   display: block;
   text-align: center;
   justify-content: center;
-  position: absolute;
-  left: 50%;
+  position: fixed;
   top: 30px;
   color: white;
   font-family: didot-serif;
   font-size: 40px;
 }
 #foto{
+  position: fixed;
+  top: 20px;
   text-align: center;
   display: block;
   height: 400px;
@@ -27,7 +27,7 @@ body{
   border: solid;
 }
 .magia{
-  font-size: 30px;
+  font-size: 50px;
   width: 400px;
   height: 750px
   text-align: center;
@@ -41,6 +41,7 @@ body{
   bottom: 40px;
 }
 #titulo magia{
+  font-size: 70px;
   text-align: center;
   color: pink;
   font-family: didot, serif;
@@ -49,7 +50,7 @@ body{
   left:40px;
 }
 .cartas{
-  font-size: 30px;
+  font-size: 50px;
   width: 400px;
   height: 750px
   text-align: center;
@@ -67,7 +68,7 @@ body{
   position: absolute;
   right: 40px;
   color: pink;
-  font-size: 40px;
+  font-size: 70px;
   font-family: didot, serif;
   font-style: italic;
 }
